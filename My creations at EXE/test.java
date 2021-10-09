@@ -1,5 +1,5 @@
 import java. util. Scanner;
-class Perimeter
+class Main
 {
   public static void main (String args[]) 
    {
